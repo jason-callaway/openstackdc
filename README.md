@@ -1,4 +1,4 @@
-openstackdc
+OpenStackDC
 ===========
 
-Repo for OpenStackDC files
+Repo for OpenStackDC workshop files.
